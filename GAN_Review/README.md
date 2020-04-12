@@ -1,3 +1,4 @@
+From  https://github.com/sheqi/GAN_Review
 # GAN_Review
 A Survey and Taxonomy of the Recent GANs Development. Please refer to the details in recent review paper [“Generative Adversarial Networks: A Survey and Taxonomy” Wang, Zhengwei and She, Qi and Ward, Tomas E.](https://arxiv.org/pdf/1906.01529.pdf) We also provide a list of papers related to GANs on computer vision here: https://cutt.ly/GAN-CV-paper.
 
